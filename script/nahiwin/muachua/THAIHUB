@@ -6,7 +6,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
          Title = " thais hub",
 
-         Animation = "FLEX"
+         Animation = "YT:THAILORR"
 
          },
 
@@ -188,7 +188,7 @@ end)
 
   AddButton(Tab5o, {
 
-     Name = "báº¥t tá»­ táº¥t cáº£ game",
+     Name = "tất cả các game",
 
     Callback = function()
 
@@ -328,7 +328,7 @@ end)
 
   AddButton(Tab3o, {
 
-     Name = "ko tĂªn",
+     Name = "tigystealabrainrotscript",
 
     Callback = function()
 
@@ -356,7 +356,7 @@ end)
 
   AddButton(Tab5o, {
 
-     Name = "fly thá»‹nh",
+     Name = "fly",
 
     Callback = function()
 
@@ -384,7 +384,7 @@ end)
 
   AddButton(Tab5o, {
 
-     Name = "báº¥t tá»­",
+     Name = "chịu­",
 
     Callback = function()
 
